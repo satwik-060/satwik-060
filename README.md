@@ -1,5 +1,5 @@
 # 💫 About Me: 
-Backend Developer Intern at Anarock. Interested in Machine learning, Web Dev, DSA
+Software Development Engineer - 1 - Backend at Anarock. Interested in Machine learning, Web Dev, DSA
 
 
 ## 🌐 Socials:
