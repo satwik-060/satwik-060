@@ -20,9 +20,6 @@ Software Development Engineer - 1 - Backend at Anarock. Interested in Machine le
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=satwik-060&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=satwik-060&icon=0&color=6)](https://visitcount.itsvg.in)
 
